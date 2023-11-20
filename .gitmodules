@@ -7,3 +7,6 @@
 [submodule "hashMethod"]
 	path = hashMethod
 	url = https://github.com/NeetiKYAdhia/customHashing
+[submodule "redBlackTrees"]
+	path = redBlackTrees
+	url = https://github.com/NeetiKYAdhia/redBlackTree
