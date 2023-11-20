@@ -1,3 +1,6 @@
 [submodule "heaps"]
 	path = heaps
 	url = https://github.com/NeetiKYAdhia/binomialHeap
+[submodule "skipLists"]
+	path = skipLists
+	url = https://github.com/NeetiKYAdhia/skipList
