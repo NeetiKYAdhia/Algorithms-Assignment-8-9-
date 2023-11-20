@@ -4,3 +4,6 @@
 [submodule "skipLists"]
 	path = skipLists
 	url = https://github.com/NeetiKYAdhia/skipList
+[submodule "hashMethod"]
+	path = hashMethod
+	url = https://github.com/NeetiKYAdhia/customHashing
